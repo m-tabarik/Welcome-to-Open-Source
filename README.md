@@ -55,6 +55,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/m-tabarik">
+                    <img src="https://avatars.githubusercontent.com/u/79154025?s=96&v=4" width="100px;" alt="Muhammad Tabarik Asif"/>
+                    <br />
+                    <sub><b>Muhammad Tabarik Asif</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
                     <br />
