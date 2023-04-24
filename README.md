@@ -217,7 +217,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Amrithshagar">
                     <img src="https://avatars.githubusercontent.com/u/110282357?v=4" width="100px;" alt="Shino Shaji"/>
                     <br />
-                    <sub><b>Amrithshagar</b></sub>
+                    <sub><b>Amrithshagara</b></sub>
                 </a>
             </td>   
             <td align="center">
